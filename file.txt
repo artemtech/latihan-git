@@ -1,4 +1,5 @@
 ini baris pertama
 ini baris kedua dari sofyan
 ini baris ketiga dari sofyan
-ini baris keempat di master dari tole dan sofyan
+ini baris keempat yang bener dari tole dan sofyan
+ini baris kesekian dari temennya
